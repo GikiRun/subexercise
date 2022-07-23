@@ -1,0 +1,15 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Giki_run",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "^8.13.1",
+    "@polkadot/types": "8.13.1"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  }
+}
